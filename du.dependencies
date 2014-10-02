@@ -8,7 +8,7 @@
     {
         "remote": "du",
         "repository": "android_kernel_htc_pyramid",
-        "target_path": "vendor/htc/pyramid",
+        "target_path": "kernel/htc/pyramid",
         "revision": "du44"
     }
 ]
