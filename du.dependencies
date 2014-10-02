@@ -1,0 +1,14 @@
+[
+    {
+        "remote": "du",
+        "repository": "android_vendor_htc",
+        "target_path": "vendor/htc",
+        "revision": "du44"
+    },
+    {
+        "remote": "du",
+        "repository": "android_kernel_htc_pyramid",
+        "target_path": "vendor/htc/pyramid",
+        "revision": "du44"
+    }
+]
